@@ -32,3 +32,6 @@ To understand this formula, it's helpful to think about the probability that no 
 <p style='text-align: justify;'>
 The probability that at least two people in the group have the same birthday is then just 1 minus the probability that no two people in the group have the same birthday.
 </p>
+
+## Run on Google Colaboratory
+Run Code [▶️](https://colab.research.google.com/github/steve-cse/The-Birthday-Paradox/blob/master/Main.ipynb)
