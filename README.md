@@ -1,11 +1,13 @@
 
 <p align="center">
-<img  width="160" height="160" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/350/partying-face_1f973.png" >
+<img  width="160" height="160" src="https://raw.githubusercontent.com/steve-cse/The-Birthday-Paradox/master/assets/partying-face_1f973.png" >
 </p> 
 
 
-<h1 style="text-align: center;">The Birthday Paradox</h1>
-
+<h1 align="center"><b>The Birthday Paradox</b></h1>
+<p align="center">
+  Micro Project for Foundations of Computer Science (221TCS002)
+</p>
 
 
 
